@@ -1,0 +1,79 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "TuristicosIntent",
+          "samples": [
+            "Beautiful places to visit in New York",
+            "What good places are there in New York City",
+            "What\u0027s in New York City",
+            "Where can I go if I\u0027m in New York City"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "VideoIntent",
+          "samples": [
+            "Show me a video of New York City",
+            "Can you put a video of New York please"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "MusicaIntent",
+          "samples": [
+            "Play a song that reminds me of New York",
+            "Can you put some music of New York"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "TrajesIntent",
+          "samples": [
+            "What is the main dress in New York",
+            "How do people dress in New York"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "ComidaIntent",
+          "samples": [
+            "What is the typical food of New York",
+            "What do people in New York eat"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "PersonajeIntent",
+          "samples": [
+            "What famous person is from new york"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "visitar nueva york"
+    }
+  }
+}

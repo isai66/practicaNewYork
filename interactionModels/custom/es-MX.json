@@ -1,0 +1,87 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "hola",
+            "como estás",
+            "di hola mundo",
+            "di hola",
+            "hola mundo"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "TuristicosIntent",
+          "samples": [
+            "A donde voy si estoy en Nueva York",
+            "Que hay en Nueva York",
+            "Que buenos lugares hay en Nueva York",
+            "Bonitos lugares para visitar en Nueva York"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "VideoIntent",
+          "samples": [
+            "Muestrame un video de la ciudad de Nueva York",
+            "Puedes poner un video de Nueva York"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "MusicaIntent",
+          "samples": [
+            "Reproduce una canción que me recuerde a Nueva York",
+            "Puedes poner algo de música de Nueva York"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "TrajesIntent",
+          "samples": [
+            "Como se visten en Nueva York",
+            "Cual es la vestimenta típica de Nueva York"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "ComidaIntent",
+          "samples": [
+            "Cuál es la comida típica de nueva york",
+            "Qué comen en nueva york"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "PersonajeIntent",
+          "samples": [
+            "Quien es famoso que venga de nueva york",
+            "Que personaje sobresale de nueva york"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "visitar nueva york"
+    }
+  }
+}
